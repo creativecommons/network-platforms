@@ -10,9 +10,9 @@ Learn more about our current CC Network Platforms and how you can join the conve
 | ------------- |
 | [Copyright Reform](/copyright-reform.md)      |
 | [Open Education](/Open-Education.md)      |
-| [GLAM (Galleries, Libraries, Archives & Museums)](/network-platforms/GLAM.md) |
+| [GLAM (Galleries, Libraries, Archives & Museums)](/GLAM.md) |
 | [Community Development](/community-dev.md) |
 
 ## Creative Commons Network Working Groups
 
-Together with the Platforms, we are also working with what we call Working Groups
+Together with the Platforms, we are also working with what we call Working Groups. By now we have the Legal Working Group and the Communications Working group. More news to come. 
