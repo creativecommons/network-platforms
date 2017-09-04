@@ -21,7 +21,10 @@ Part of the new strategy is to establish defined areas of focus, or “platforms
 
 ## Achievements - what has been done so far
 
-* None yet. We are still setting up the Platform.
+* Launched the platform at the 2017 CC Summit. 
+* Monthly meetings. 
+* Communications setup (see below). 
+* Growing membership through targeted invitations. 
 
 ## Current status
 
