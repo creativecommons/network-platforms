@@ -12,6 +12,7 @@ See: [Working document](https://docs.google.com/document/d/1-HPog_7pPUXrECzne1t6
 ## Current status
 
 * Recruiting members. All are welcome.
+* [Invitation letter](https://docs.google.com/document/d/1abMsimn1MM_9GundexKALRQTdMN665OduQj3L6oA_60/edit) sent to [OER lists](https://docs.google.com/spreadsheets/d/1dtbn-JoqguuUBwQWVob3jcN_EDtSd4w0XHD9MRloeHs/edit#gid=0) and individuals around the world in September, 2017.
 
 ## Activities plan (if applicable)
 
