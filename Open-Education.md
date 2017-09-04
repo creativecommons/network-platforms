@@ -1,7 +1,7 @@
 ## Background
 * See: [Working Document](https://docs.google.com/document/d/1-HPog_7pPUXrECzne1t6X7eKwo8TzpYBZ8iC8FfASoE/edit?usp=sharing)
 
-In early 2017, the Creative Commons Global Network (CCGN) completed a consultation process of renewing and reorganizing itself to support a strong and growing global movement. The year-long process resulted in the [CCGN Global Network Strategy](https://creativecommons.org/about/global-affiliate-network/network-strategy/).
+* In early 2017, the Creative Commons Global Network (CCGN) completed a consultation process of renewing and reorganizing itself to support a strong and growing global movement. The year-long process resulted in the [CCGN Global Network Strategy](https://creativecommons.org/about/global-affiliate-network/network-strategy/).
 Part of the new strategy is to establish defined areas of focus, or “platforms,” which will drive CC’s global activities. This document is a set of draft ideas to launch a CC Global Network Open Education Platform.
 
 ## Goals and Objectives 
