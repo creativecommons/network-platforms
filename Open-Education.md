@@ -7,6 +7,7 @@ Part of the new strategy is to establish defined areas of focus, or “platforms
 ## Goals and Objectives 
 
 * See: [Working document](https://docs.google.com/document/d/1-HPog_7pPUXrECzne1t6X7eKwo8TzpYBZ8iC8FfASoE/edit?usp=sharing)
+
 * Platform members are currently dicussing Goals. Draft ideas to date:
 	* Increase education equity by reducing barriers to education, including access, cost, language, cultural context, and technical format.
 	* Ensure educators have the legal rights to retain, reuse, revise, remix and redistribute educational resources as they determine – without having to ask permission.
@@ -17,7 +18,6 @@ Part of the new strategy is to establish defined areas of focus, or “platforms
 	* Increase the amount of OER available in languages less represented on the internet than English
 	* Empower “disfavored regions” to develop contextually appropriate open policies and to enhance/increase the presence of Open content representing their region.
 	* Ensure educators have the legal rights and working knowledge of open licenses in order to exercise 5 Rs permissions to localize OER.
-
 
 ## Achievements - what has been done so far
 
