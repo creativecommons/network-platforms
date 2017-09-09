@@ -1,4 +1,4 @@
-## JOIN! / Communication channels - sign up!
+## JOIN! / Communication channels:
 
 * Open Education Platform [Mailing List](https://groups.google.com/forum/#!forum/cc-openedu)
 * IM channel: [sign up here](https://slack-signup.creativecommons.org/). It will send you an invitation email. You can then sign up to the [#cc-openedu](https://creativecommons.slack.com/messages/C2S2MFAJW) channel.
