@@ -1,4 +1,4 @@
-## JOIN! / Communication channels:
+## JOIN! / Communication Channels
 
 * Open Education Platform [Mailing List](https://groups.google.com/forum/#!forum/cc-openedu)
 * IM channel: [sign up here](https://slack-signup.creativecommons.org/). It will send you an invitation email. You can then sign up to the [#cc-openedu](https://creativecommons.slack.com/messages/C2S2MFAJW) channel.
@@ -26,7 +26,7 @@ Part of the new strategy is to establish defined areas of focus, or “platforms
 	* Empower “disfavored regions” to develop contextually appropriate open policies and to enhance/increase the presence of Open content representing their region.
 	* Ensure educators have the legal rights and working knowledge of open licenses in order to exercise 5 Rs permissions to localize OER.
 
-## Achievements - what has been done so far
+## Achievements (what has been done so far)
 
 * Launched the platform at the 2017 CC Summit. 
 * Monthly meetings. 
@@ -38,15 +38,15 @@ Part of the new strategy is to establish defined areas of focus, or “platforms
 * Recruiting members. All are welcome.
 * [Invitation letter](https://docs.google.com/document/d/1abMsimn1MM_9GundexKALRQTdMN665OduQj3L6oA_60/edit) sent to [OER lists](https://docs.google.com/spreadsheets/d/1dtbn-JoqguuUBwQWVob3jcN_EDtSd4w0XHD9MRloeHs/edit#gid=0) and individuals around the world in September, 2017.
 
-## Activities plan (if applicable)
+## Activities plan
 
 * See: [Working Document](https://docs.google.com/document/d/1-HPog_7pPUXrECzne1t6X7eKwo8TzpYBZ8iC8FfASoE/edit?usp=sharing)
 
-## Resources - where to find more info, documentation, etc.:
+## Resources (where to find more info, documentation, etc.)
 	
 * See: [Working Document](https://docs.google.com/document/d/1-HPog_7pPUXrECzne1t6X7eKwo8TzpYBZ8iC8FfASoE/edit?usp=sharing)
 
-## Next meeting/call:
+## Next Meeting / Call
 
 * Meeting minutes and Next Meeting links on: [Working Document](https://docs.google.com/document/d/1-HPog_7pPUXrECzne1t6X7eKwo8TzpYBZ8iC8FfASoE/edit?usp=sharing)
 * Next meeting: October 18: 8:00pm / October 19: 9:00am (PDT, UTC -7)
