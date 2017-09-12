@@ -30,4 +30,4 @@ The Open GLAM platform is an area of work or activity to:
 
 ## Next meeting/call:
 
-Currently there's no next meeting schedule. 
+Currently there's no next meeting scheduled. 
