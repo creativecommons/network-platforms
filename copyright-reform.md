@@ -17,8 +17,8 @@ This means that the Creative Commons Global Network should include a platform fo
 ## Rationale
 There are three main reasons why copyright reform is an issue that Creative Commons should focus on: 
 1. Copyright provides the legal basis for the tools offered by Creative Commons, and changes to copyright can affect how these tools function, 
-2. Creative Commons is perceived to be a stakeholder in discussions about copyright policy (both by our friends as well as our enemies), and 
-3. Copyright is the most important regulative framework that shapes the digital commons, and thus directly influences the ability to realize our vision. 
+2. Copyright is the most important regulative framework that shapes the digital commons, and thus directly influences the ability to realize our vision, and 
+3. Creative Commons is perceived to be a stakeholder in discussions about copyright policy (both by our friends as well as our enemies). 
 
 ## Goals and Objectives 
 The primary mechanism for achieving the Creative Commons vision is growing and strengthening the commons. As discussed above, copyright is the primary regulatory structure affecting the digital commons. 
@@ -27,20 +27,20 @@ Over the past decades there has been an extension of copyright both in duration 
 
 The Creative Commons Global Network should advocate for changes to international and national copyright frameworks that ensure that copyright does not needlessly limits access to culture and information, that strengthens the rights of users and that preserve the ability of authors and creators to control the exploitation of their works within a system that balances these varied interests.
 
-The CC copyright reform platform concerns itself primarily with advocacy efforts that attempt to influence legislation or bring about legislative change in the field of copyright. This means that advocacy aimed at promoting open policies, while clearly an important area of engagement for Creative Commons, is out of scope for this platform. 
+The CC copyright reform platform concerns itself primarily with advocacy efforts that attempt to bring about legislative and/or regulatory change in the field of copyright law. This means that advocacy aimed at promoting open licensing policies, while clearly an important area of engagement for Creative Commons, is not a primary activity for this platform. 
 
 Derived from this general principle we can identify a number of concrete objectives that can guide the copyright policy advocacy of the members of the Creative Commons Global Network:
-1. The term of copyright protection is too long and should be reduced (either to the minimum requirement of the Berne convention, or further).
-2. The scope of copyright protection should not be extended. Efforts to extend the scope of copyright and related rights should be opposed. 
+1. The term of copyright protection is too long and should be reduced either to the minimum required by the Berne convention, or further. Extremely long copyright terms prevent works from entering the public domain, where they may be used without restriction as the raw material for additional creative works. 
+2. The scope of copyright protection should not be extended. Authors already enjoy a broad set of exclusive rights under copyright, including reproduction, distribution, the creation of derivative works, and others. Efforts to extend the scope of copyright and related rights should be opposed. 
 3. The sharing of works under Creative Commons licenses—or dedicating works to the public domain—is a legitimate exercise of copyright, and should be the norm for all publicly funded resources. 
 4. Exceptions and limitations to copyright, including fair use and fair dealing, must be actively protected and maintained to ensure the effectiveness of the balance of author’s rights and the public interest.
 5. There is a need for flexible exceptions and limitations that ensure that copyright can adapt to new technologies and social practices.
 6. Copyright should not interfere with noncommercial transformative uses. Users need to have a right to remix, and share remixes and transformative works.
-7. Copyright should not interfere with teaching and learning activities. There needs to be robust exceptions and limitations enabling education. 
-8. Copyright should not lock away works in the collections of public institutions that are no longer actively managed by their rightsholders. There should be exceptions and limitations that ensure that out-of-commerce works and orphan works can be made available online by such institutions. 
-9. Contracts or technical protection measures must not restrict access to and re-use of public domain works, or uses permitted under exceptions and limitations to copyright. 
+7. Copyright should empower—and not hinder—teaching and learning activities. There needs to be robust exceptions and limitations protecting and enabling education activities. 
+8. Copyright should not lock away works no longer actively managed by their rightsholders in the collections of public institutions. There should be exceptions and limitations that ensure that out-of-commerce works and orphan works can be made available online by such institutions. 
+9. Contracts and/or technical protection measures must not restrict access to and re-use of works in the public domain, or uses permitted under exceptions and limitations to copyright. 
 10. Works that have entered the public domain must remain in the public domain. The digitization of public domain works does not create new rights over them.
-11. The system of liability limitations for intermediaries established by the DMCA, eCommerce Directive, and similar mechanisms should be preserved. 
+11. The systems of liability limitations for intermediaries established by the DMCA, eCommerce Directive, and similar mechanisms should be preserved. 
 12. International copyright agreements should be reviewed to reintroduce commonsense formalities to mitigate overprotective copyright. Countries should explore options under existing obligations to do the same. 
 13. Copyright policymaking must be conducted transparently and include all stakeholders, especially the public.
 
