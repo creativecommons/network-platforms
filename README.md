@@ -4,7 +4,7 @@ Platforms are how we organize areas of work for the Creative Commons community, 
 
 Platforms are the way we create and communicate strategic collaboration to have worldwide impact – it is the way our network [works collaboratively](/docs/Platforms-Guidelines-for-decision-making.md). The platforms are open to anyone willing to contribute and develop usable, vibrant and collaborative global commons.
 
-Learn more about our current [CC Network Platforms](https://github.com/creativecommons/global-network-strategy#cc-network-platforms) and how you can join the conversation on [CC Network Platforms:
+Learn more about our current [CC Network Platforms](https://github.com/creativecommons/network-platforms) and how you can join the conversation on [CC Network Platforms:
 
 | Network Platforms        | 
 | ------------- |
