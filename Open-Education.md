@@ -1,3 +1,6 @@
+## CC Blog Post - Invitation to Join!
+*CC Blog Post (https://creativecommons.org/2017/09/05/invitation-join-cc-open-education-platform)
+
 ## JOIN! / Communication Channels
 
 * Open Education Platform [Mailing List](https://groups.google.com/forum/#!forum/cc-openedu)
