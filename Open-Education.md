@@ -52,4 +52,6 @@ Part of the new strategy is to establish defined areas of focus, or “platforms
 ## Next Meeting / Call
 
 * Meeting minutes and Next Meeting links on: [Working Document](https://docs.google.com/document/d/1-HPog_7pPUXrECzne1t6X7eKwo8TzpYBZ8iC8FfASoE/edit?usp=sharing)
-* Next meeting: October 18: 8:00pm / October 19: 9:00am (PDT, UTC -7)
+* Next meetings:
+  * Monday 23 October 2017: 9:00-10:30am (US Pacific Time) / http://bit.ly/2yza101 (World Time)
+  * Wednesday 25 October 2017: 7:00-8:30am (US Pacific Time) / http://bit.ly/2y7GQip (World Time)
