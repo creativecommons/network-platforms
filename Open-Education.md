@@ -23,7 +23,7 @@ Part of the new strategy is to establish defined areas of focus, or “platforms
 * Launched the platform at the 2017 CC Summit. 
 * Monthly meetings. 
 * Communications setup (see below). 
-* Growing membership through targeted invitations. 
+* Growing membership through targeted invitations. 500th member joined in October, 2017!
 
 ## Current status
 
