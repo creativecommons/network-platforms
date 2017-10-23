@@ -52,4 +52,3 @@ Part of the new strategy is to establish defined areas of focus, or “platforms
 ## Next Meeting / Call
 
 * Meeting minutes and Next Meeting links on: [Working Document](https://docs.google.com/document/d/1-HPog_7pPUXrECzne1t6X7eKwo8TzpYBZ8iC8FfASoE/edit?usp=sharing)
-* Next meeting: October 18: 8:00pm / October 19: 9:00am (PDT, UTC -7)
