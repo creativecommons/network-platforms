@@ -26,8 +26,8 @@ The Open GLAM platform is an area of work or activity to:
 * Slack: [https://slack-signup.creativecommons.org/](https://slack-signup.creativecommons.org/) and then search for the channel: #cc-openglam
 ## Resources - where to find more info, documentation, etc.:
 	
-Working document: https://docs.google.com/document/d/19hFvtDFPZU-FHWmnXaLX5TP9eR7h_Iou-6Cc4Wl6qAM/edit
+* Working document: https://docs.google.com/document/d/19hFvtDFPZU-FHWmnXaLX5TP9eR7h_Iou-6Cc4Wl6qAM/edit
 
 ## Next meeting/call:
 
-Currently there's no next meeting scheduled. 
+* Currently there's no next meeting scheduled. 
