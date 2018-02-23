@@ -12,6 +12,4 @@
 
 ## Resources - where to find more info, documentation, etc.:
 	
-- [Working document - google doc](https://docs.google.com/document/d/19hFvtDFPZU-FHWmnXaLX5TP9eR7h_Iou-6Cc4Wl6qAM/edit)
-
 ## Next meeting/call:
