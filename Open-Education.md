@@ -1,7 +1,8 @@
 # Creative Commons Network: Open Education Platform
 
 ## Invitation to Join!
-* [CC Blog Post](https://creativecommons.org/2017/09/05/invitation-join-cc-open-education-platform)
+* [Invitation to Join CC Open Education Platform](https://creativecommons.org/2017/09/05/invitation-join-cc-open-education-platform)
+* [Invitation to Join CC Global Network](https://creativecommons.org/2018/02/23/global-network/)
 
 ## JOIN! / Communication Channels
 
