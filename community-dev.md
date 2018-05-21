@@ -26,7 +26,6 @@ Part of the new strategy is to establish defined areas of focus, or “platforms
 
 * Community Development Platform [Mailing List](https://creativecommons.email/mailman/listinfo/community-development )
 * IM channel: [sign up here](https://slack-signup.creativecommons.org/). It will send you an invitation email. You can then sign up to the [#cc-community-dev](https://creativecommons.slack.com/messages/C57CA2KEK) channel.
-* Open Source IM option (IRC): To join the #creativecommons-openedu IRC channel, just connect via Freenode. (If you have any questions, ask “robmyers” on slack or IRC.)
 
 ## Resources - where to find more info, documentation, etc.:
 
