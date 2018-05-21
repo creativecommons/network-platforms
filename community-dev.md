@@ -10,6 +10,10 @@ Part of the new strategy is to establish defined areas of focus, or “platforms
 
 ## Achievements - what has been done so far
 
+* Hosted a Platform meeting at the 2018 CC summit.
+* Communications setup (see below). 
+* Developed Version 1 of the [Working Document](https://docs.google.com/document/d/1RWIo1Q8qTgWfEEnEEA8INqI_xHDlAPcse7676oqRBi4/edit?usp=sharing)
+
 ## Current status
 
 * Developing the concept of the Platform with community members
