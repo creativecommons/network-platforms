@@ -41,9 +41,6 @@ Derived from this general principle we can identify a number of concrete objecti
 
 With regard to some or all of these issues we can imagine defensive and offensive advocacy efforts. If we want to achieve our overall goals it is imperative that the copyright policy advocacy efforts of the Creative Commons Global Network are not limited to defensive efforts alone. Preventing legislative changes that would damage the commons is a priority, but we must also develop credible offensive efforts that push for positive legislative changes to strengthen and expand the commons.  
 
-## Ecosystem and Stakeholders
-[Google spreadsheet](https://docs.google.com/spreadsheets/d/1f5Q9KSBGMRYXUyHacSq_zf5rDJIePiKNGHAhc-OC_Hs/edit#gid=0)
-
 ## Areas of Engagement
 Copyright policy is formulated and implemented on a number of different levels. We can distinguish the following (sometimes overlapping) policy arenas: 
 * Global (e.g., WIPO)  
@@ -53,25 +50,27 @@ Copyright policy is formulated and implemented on a number of different levels. 
 
 Considering the above areas of engagement, we can identify several potential copyright reform platform activities that could be explored.
 
-*Reboot participation at WIPO*
+### Educational materials for copyright reform
+Create and maintain educational resources on CC’s role in copyright reform and commons policy advocacy. The platform should be able to explain in easily understandable writing, infographics, videos, toolkits, etc. how copyright law reform intersects with the commons and why CCGN is central to this ongoing work. It should showcase the work and products of the platform itself, including policy interventions, analyses, digital campaigns, blog posts, social media, slide decks, and other outputs. The resources should be translated, organised, and maintained on the Creative Commons website. There is also the option to explore building resources to include in the CC Certificate program. 
 
-The Creative Commons organisation is a registered observer at WIPO, but over the years has only been minimally involved in the copyright discussions in Geneva. This role could be filled by members of the CCGN who use the observer status as a conduit to express the policy positions of the Network at WIPO. CC HQ should facilitate this by providing (travel) budget and making staff available to participate in WIPO sessions. WIPO also presents a good opportunity to coordinate with other global NGOs that work towards strengthening the commons. 
+### Lightweight policy think tank
+Develop a structure to highlight, research, and act on contemporary legal, technological, social/cultural trends that affect CC in relation to copyright reform and commons policy advocacy. There are a variety of specific issues that could be worked on, including both reactionary and proactively, that would benefit from diverse input from the CCGN. Through a lightweight policy think tank, these issues could be analysed, discussed, debated, with the idea to establish an improved understanding of new legal and policy challenges, and better informed CC organisation and movement overall. 
 
-*Participate in national (and supranational) copyright reform opportunities*
+An example of an issue to be tackled by the group would be mandatory remuneration schemes being floated within various national copyright laws—with the idea to clarify the effect of this on CC licensing, and also explore the implications for creators and authors. Another could be to analyse and develop a CC policy position or similar with regard to traditional knowledge and open licensing. The think tank could also investigate and participate in related policy work that affects the commons, which could include intervening in processes of a non-copyright nature, such as issues around contracts and technological protection measures and their effect on the exercise of rights under CC or limitations and exceptions, or even things like net neutrality, platform regulation, and other laws/regulations which may affect the operation of CC licenses, and affect sharing and the commons more generally. Written outputs such as policy analyses/positions would be added to the educational materials on the CC website described above. 
 
-The Creative Commons Global Network should identify opportunities for policy engagement and provide domain experience where appropriate. CC HQ should provide communications and policy assistance, and facilitate collaborations between CCGN members who wish to intervene in policy processes and discussions, run issue-based campaigns, and attend relevant events. 
+### Participation at WIPO
+The Creative Commons organisation is a registered observer at WIPO, but over the years has only been minimally involved in the copyright discussions in Geneva. This role could be filled by members of the CCGN who use the observer status as a conduit to actively participate in the work at WIPO, especially the Standing Committee on Copyright and Related Rights (SCCR), which continues to focus on a possible treaty for broadcasters, as well as work related to limitations and exceptions in education and the GLAM sector. Both of these threads have relevance to the operation of CC licensing, and the work of the copyright reform platform in general.  WIPO also presents a good opportunity to coordinate with other global NGOs that work towards strengthening the commons.
 
-*Organize around trade agreement negotiations regarding copyright and user rights*
+### National level copyright reform efforts
+As demonstrated again at the most recent CC global summit, there are several countries engaged in copyright reform processes, and CC network members are actively participating in providing guidance and recommendations for productive law reform that promotes users’ rights and protects the commons. The platform should continue to track these efforts, share information, and activate CCGN members where relevant. The platform should identify opportunities for cross-chapter engagement, including joint legal/policy interventions and collaborations on issue-based campaigns. 
 
-Since copyright policymaking is taking place increasingly within regional and multilateral trade agreements (TPP, NAFTA, TTIP, RCEP, etc.), the CCGN should track and identify opportunities for intervention and education around protecting user rights, expanding the commons, and promoting transparency and public participation in negotiations. The CCGN can draft and publish joint statements, coordinate with other civil society organisations on actions, and participate in events.  
+### Trade agreement organising and intervention
+Since copyright policymaking is taking place increasingly within regional and multilateral trade agreements (CPTPP, NAFTA, TTIP, RCEP, etc.), the platform should track and identify opportunities for intervention and education around protecting user rights, expanding the commons, and promoting transparency and public participation in negotiations. The platform members could draft and publish joint statements, coordinate with other civil society organisations on actions, and participate in events. We’ve already been engaging in this type of action, such as the joint policy analyses and communications around the Mercosur-EU FTA. 
 
-*Develop and maintain copyright reform resource page on CC website*
+### Other
+Provide mentorship/fellowship opportunities for copyright reform and commons advocates
 
-The Creative Commons Global Network should coordinate with CC HQ to create and maintain a website with information and resources relevant to our policy work and copyright reform activities. 
-
-## Decisionmaking and Communications
-* Decision-making guidelines [tbd]
-* Communication guidelines [tbd] 
+## Communications
 * [Mailing list](https://creativecommons.email/mailman/listinfo/copyright-reform)
 * Slack: [https://slack-signup.creativecommons.org/](https://slack-signup.creativecommons.org/) and then search for the channel: #cc-copyrightreform
 * Monthly teleconference ~30 minutes. Included should be updates from the secretariat and members [tbd]
