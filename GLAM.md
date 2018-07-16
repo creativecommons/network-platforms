@@ -23,7 +23,7 @@ The Open GLAM platform is an area of work or activity to:
 ## Communication channels - how to be updated
 
 * Mailing list at: https: slash slash creativecommons.email/mailman/listinfo/openglam
-* Slack: [https://slack-signup.creativecommons.org/](https://slack-signup.creativecommons.org/) and then search for the channel: #cc-openglam
+* Slack: [https://slack-signup.creativecommons.org/](https://slack-signup.creativecommons.org/) and then search for the channel: [#cc-openglam](https://creativecommons.slack.com/messages/C57MTL8F7)
 ## Resources - where to find more info, documentation, etc.:
 	
 * Working document: https://docs.google.com/document/d/19hFvtDFPZU-FHWmnXaLX5TP9eR7h_Iou-6Cc4Wl6qAM/edit
