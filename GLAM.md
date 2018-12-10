@@ -12,7 +12,7 @@ The Open GLAM platform is an area of work or activity to:
 
 ## Achievements - what has been done so far
 
-1. Stewarding the @openglam twitter account, with the help of collaborators that rotate bi-weekly and contribute content.
+1. Stewarding the [@openglam twitter account](http://twitter.com/openglam), with the help of collaborators that rotate bi-weekly and contribute content. More info [here](https://medium.com/creative-commons-we-like-to-share/are-you-working-in-the-openglam-arena-tweet-about-it-b73e7fdd02f1).
 2. Finished the [survey over the "OpenGLAM Principles"](https://docs.google.com/forms/d/1Vvp6c985pxdrsFvLpnbupBufiR3mxlnGIIeTupf_HM0/edit), processing results.
 3. Working [CC GLAM certificates](https://certificates.creativecommons.org/).
 4. Exploring ways to open up the OpenGLAM calls.
