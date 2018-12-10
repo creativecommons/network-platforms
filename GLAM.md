@@ -12,11 +12,15 @@ The Open GLAM platform is an area of work or activity to:
 
 ## Achievements - what has been done so far
 
+1. Stewarding the @openglam twitter account, with the help of collaborators that rotate bi-weekly and contribute content.
+2. Finished the [survey over the "OpenGLAM Principles"](https://docs.google.com/forms/d/1Vvp6c985pxdrsFvLpnbupBufiR3mxlnGIIeTupf_HM0/edit), processing results.
+3. Working [CC GLAM certificates](https://certificates.creativecommons.org/).
+4. Exploring ways to open up the OpenGLAM calls.
+
 ## Current status
 
 1. Working on Version 1.0 of the Working document: https://docs.google.com/document/d/19hFvtDFPZU-FHWmnXaLX5TP9eR7h_Iou-6Cc4Wl6qAM/edit.
-2. Working on CC GLAM certificates (see: https://certificates.creativecommons.org/)
-3. Trying to identify other areas of activities where CC's help could foster discussions.
+2. Trying to identify other areas of activities where CC's help could foster discussions.
 
 ## Activities plan (if applicable)
 
