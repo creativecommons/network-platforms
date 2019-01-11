@@ -31,6 +31,8 @@ Two practical and active resource and remix sites exist in the audio field: [ccM
 
 Many artists are sharing CC work on platforms like Vimeo or Flickr, but beyond the ability to filter works by license, there's not a specific CC-focused community or space on those sites for these artists to exchange with one another or build upon each others' work. On these platforms Creative Commons is just a copyright license, not a community, or an artistic approach.
 
+One example of a thriving free and open community is [Open Game Art](https://opengameart.org/), which has been operating for almost a decade, runs contests encouraging new art to be created, and is at the nexus of software, art and music.
+
 ----
 
 ### Rationale
@@ -58,6 +60,7 @@ Many artists are sharing CC work on platforms like Vimeo or Flickr, but beyond t
 - [Veethika Mishra](https://twitter.com/veethikaa) - Bangalore, India. Tabletop Game Designer, Visual Designer, Interaction Designer at Red Hat.
 - [Alanna Mayer](http://allanamayer.tumblr.com/) - Ontario, Canada. I do a lot of heritage work but I'm also a photographer with some stock for sale and a lot of CC licensed stuff on Flickr. I'm also a freelance writer and attempt to make lots of what I do CC-BY-NC-SA
 - [Suraj Barthy](https://twitter.com/surajbarthy), Chennai, India. Interaction Designer & Musician. I have an Everyday Art Project where I make one work of art from scratch, everyday. [surajbarthy.com](http://surajbarthy.com/)
+- [Chris Sakkas](mailto:sanglorian@gmail.com). Free and open culture. I set up the [Free and Open Works! wiki](http://faow.referata.com/), which is a database of free and open works (and works under other copyright licences). I want to see free culture communicated, catalogued, archived and encouraged. 
 
 #### Who should be here:
 - artists / designers / musicians / video/photographers / creative writers
