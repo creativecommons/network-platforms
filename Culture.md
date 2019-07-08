@@ -1,5 +1,6 @@
 # Platform Discussion: CC-Culture
-
+    Shago7932/Máster
+       Code of conduct
 
 ### Define the platform
 **_You may be able to describe the scope of the platform work. What is it for? What is the space is filling?, etc._**
