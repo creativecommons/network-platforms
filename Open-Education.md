@@ -26,7 +26,7 @@ Part of the new strategy is to establish defined areas of focus, or “platforms
 * Launched the platform at the 2017 CC Summit. 
 * Monthly meetings. 
 * Communications setup (see below). 
-* Growing membership through targeted invitations. 1000+ participants in 75 countries as of March 4, 2020.
+* Growing membership through targeted invitations. 1017 members in 75 countries as of April 28, 2020.
 
 ## Current status
 
