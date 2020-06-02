@@ -8,7 +8,7 @@
 
 * Open Education Platform [Mailing List](https://groups.google.com/forum/#!forum/cc-openedu)
 * IM channel: [sign up here](https://slack-signup.creativecommons.org/). It will send you an invitation email. You can then sign up to the [#cc-openedu](https://creativecommons.slack.com/messages/C2S2MFAJW) channel.
-* Open Source IM option (IRC): To join the #creativecommons-openedu IRC channel, just connect via Freenode. (If you have any questions, ask “robmyers” on slack or IRC.)
+* Open Source IM option (IRC): To join the #creativecommons-openedu IRC channel, just connect via Freenode.
 * Hashtag: [#ccopenedu](https://twitter.com/hashtag/ccopenedu)
 
 ## Background
