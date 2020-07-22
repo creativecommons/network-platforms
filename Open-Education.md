@@ -1,5 +1,7 @@
 # Creative Commons Network: Open Education Platform
 
+## NEW MASTER WEB SITE (https://network.creativecommons.org/cc-open-education-platform/)
+
 ## Invitation to Join!
 * [Invitation to Join CC Open Education Platform](https://creativecommons.org/2017/09/05/invitation-join-cc-open-education-platform)
 * [Invitation to Join CC Global Network](https://creativecommons.org/2018/02/23/global-network/)
